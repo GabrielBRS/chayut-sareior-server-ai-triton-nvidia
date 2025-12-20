@@ -1,0 +1,13 @@
+//
+// Created by gabrielsousa on 20/12/2025.
+//
+
+#ifndef CHAYUT_SAREIOR_SERVER_AI_TRITON_NVIDIA_MAIN_CUH
+#define CHAYUT_SAREIOR_SERVER_AI_TRITON_NVIDIA_MAIN_CUH
+
+
+class main {
+};
+
+
+#endif //CHAYUT_SAREIOR_SERVER_AI_TRITON_NVIDIA_MAIN_CUH
